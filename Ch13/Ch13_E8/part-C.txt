@@ -1,0 +1,1 @@
+i tested the ph dosing last week and at our tilia everything worked fine. I setted the start value for CS after ph to 8 and it was dosing correctly until the ph max volumen was reached. After that the scrubbing liquid was changed.

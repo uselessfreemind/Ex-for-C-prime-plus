@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1598602927 source:c:\users\vergil\documents\c\ch13\ch13_e7\main.c
+	"E7.h"
+
+1598602493 c:\users\vergil\documents\c\ch13\ch13_e7\e7.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1598603123 source:c:\users\vergil\documents\c\ch13\ch13_e7\function.c
+	"E7.h"
+

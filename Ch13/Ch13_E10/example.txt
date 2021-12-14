@@ -1,0 +1,6 @@
+The reason why there are 28s between events
+in HMI and not 30s is, 
+that we are emptying until the level fell below SLS3 for 2s (see atached screenshot). 
+After that we are filling and flling event is generated. 
+But the time for warning begins to count after the liquid is underneath SLS3 (allready 2s while emptying). 
+Thats why you see 28s differen between filling event and warning.

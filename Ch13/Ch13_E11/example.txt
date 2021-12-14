@@ -1,0 +1,5 @@
+The requirements for the exhaust installation are given in the 
+facility requirements (see section 8 Appendix).
+A manual flap should be installed between SALIX and the exhaust header in the exhaust installation.
+The exhaust pipeline should be connected horizontally into the exhaust header.
+The diameter of the exhaust pipeline has to be smaller than the exhaust header.

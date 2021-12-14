@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598885970 source:d:\users\administrator\documents\cpp\ch13\ch13_e11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1598946338 source:c:\users\vergil\documents\c\ch13\ch13_e11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

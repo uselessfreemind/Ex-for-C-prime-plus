@@ -1,0 +1,1 @@
+If any warning according to lye is active, no lye will be dosed. In our case ph value did not change after 1h (warning 238). It makes no sense to continue dosing lye, because we would use very much lye and change scrubbing liquid every time we reached lye max.

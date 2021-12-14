@@ -1,0 +1,1 @@
+The question is, why pH value does not change after dosing. If you activated the valve directly and it had worked, then the lye supply and ph sonde are ok. Could you please check if it is possible to dose lye from HMI in handmode? You can do it only if PMS is 

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1599033051 source:c:\users\vergil\documents\c\ch13\ch13_e12\function.c
+	"E12.h"
+
+1599033037 c:\users\vergil\documents\c\ch13\ch13_e12\e12.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1599122330 source:c:\users\vergil\documents\c\ch13\ch13_e12\main.c
+	"E12.h"
+
+1598952025 source:d:\users\administrator\documents\cpp\ch13\ch13_e12\function.c
+	"E12.h"
+
+1598952025 d:\users\administrator\documents\cpp\ch13\ch13_e12\e12.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1598970748 source:d:\users\administrator\documents\cpp\ch13\ch13_e12\main.c
+	"E12.h"
+
