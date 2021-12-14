@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1603265880 source:c:\users\vergil\documents\c\ch17\ch17_e1\main.c
+	"E1.h"
+
+1603251439 c:\users\vergil\documents\c\ch17\ch17_e1\e1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1603185869 source:c:\users\vergil\documents\c\ch17\ch17_e1\function.c
+	"E1.h"
+
+1603099453 source:d:\users\administrator\documents\cpp\ch17\ch17_e1\function.c
+	"E1.h"
+
+1603099452 d:\users\administrator\documents\cpp\ch17\ch17_e1\e1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
