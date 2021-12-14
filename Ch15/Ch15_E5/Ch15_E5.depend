@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1600756992 source:c:\users\vergil\documents\c\ch15\ch15_e5\main.c
+	"E5.h"
+
+1600757081 c:\users\vergil\documents\c\ch15\ch15_e5\e5.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1600757081 source:c:\users\vergil\documents\c\ch15\ch15_e5\function.c
+	"E5.h"
+

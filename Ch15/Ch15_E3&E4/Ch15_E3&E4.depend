@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1600741607 source:c:\users\vergil\documents\c\ch15\ch15_e3&e4\main.c
+	"E3&E4.h"
+
+1600701380 c:\users\vergil\documents\c\ch15\ch15_e3&e4\e3&e4.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<stdbool.h>
+
+1600741611 source:c:\users\vergil\documents\c\ch15\ch15_e3&e4\function.c
+	"E3&E4.h"
+
