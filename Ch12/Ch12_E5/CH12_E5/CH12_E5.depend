@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587868264 source:c:\users\vergil\documents\c\ch12\ch12_e5\ch12_e5\function.c
+	"E5.h"
+
+1587520159 source:c:\users\vergil\documents\c\ch12\ch12_e5\ch12_e5\main.c
+	"E5.h"
+
+1587520292 c:\users\vergil\documents\c\ch12\ch12_e5\ch12_e5\e5.h
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588236681 source:c:\users\vergil\documents\c\ch12\ch12_e8\ch12_e8\function.c
+	"E8.h"
+
+1588220759 c:\users\vergil\documents\c\ch12\ch12_e8\ch12_e8\e8.h
+	<stdio.h>
+	<stdlib.h>
+
+1588220759 source:c:\users\vergil\documents\c\ch12\ch12_e8\ch12_e8\main.c
+	"E8.h"
+
