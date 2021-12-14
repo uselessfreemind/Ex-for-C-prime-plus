@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1601194301 source:c:\users\vergil\documents\c\ch16\ch16_e1&e2\function.c
+
+1601195470 source:c:\users\vergil\documents\c\ch16\ch16_e1&e2\main.c
+	"E1&E2.h"
+
+1601196006 c:\users\vergil\documents\c\ch16\ch16_e1&e2\e1&e2.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
