@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1597218365 source:c:\users\vergil\documents\c\ch11\ch11_e11\ch11\main.c
+	"E11.h"
+
+1597218768 source:c:\users\vergil\documents\c\ch11\ch11_e11\ch11\function.c
+	"E11.h"
+
+1597217824 c:\users\vergil\documents\c\ch11\ch11_e11\ch11\e11.h
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+

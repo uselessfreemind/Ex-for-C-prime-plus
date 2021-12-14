@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1593356039 source:d:\users\administrator\documents\cpp\ch11\ch11_e8\ch11_e8\function.c
+	"E8.h"
+
+1593351252 d:\users\administrator\documents\cpp\ch11\ch11_e8\ch11_e8\e8.h
+	<stdio.h>
+	<string.h>
+
+1593355527 source:d:\users\administrator\documents\cpp\ch11\ch11_e8\ch11_e8\main.c
+	"E8.h"
+
+1593420532 source:c:\users\vergil\documents\c\ch11\ch11_e8\ch11_e8\function.c
+	"E8.h"
+
+1593356336 c:\users\vergil\documents\c\ch11\ch11_e8\ch11_e8\e8.h
+	<stdio.h>
+	<string.h>
+
+1593591229 source:c:\users\vergil\documents\c\ch11\ch11_e8\ch11_e8\main.c
+	"E8.h"
+

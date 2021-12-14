@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597310174 source:c:\users\vergil\documents\c\ch11\ch11_e15\ch11_e15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

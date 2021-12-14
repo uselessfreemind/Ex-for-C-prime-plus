@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1597135247 source:c:\users\vergil\documents\c\ch11\ch11_e10\ch11_e10\main.c
+	"E10.h"
+
+1597071132 c:\users\vergil\documents\c\ch11\ch11_e10\ch11_e10\e10.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1595428098 source:d:\users\administrator\documents\cpp\ch11\ch11_e10\ch11_e10\function.c
+	"E10.h"
+
+1595409664 d:\users\administrator\documents\cpp\ch11\ch11_e10\ch11_e10\e10.h
+	<stdio.h>
+	<string.h>
+
+1595409664 source:d:\users\administrator\documents\cpp\ch11\ch11_e10\ch11_e10\main.c
+	"E10.h"
+
+1597135852 source:c:\users\vergil\documents\c\ch11\ch11_e10\ch11_e10\function.c
+	"E10.h"
+
+1597070917 source:c:\users\jj\desktop\ch11_e10\ch11_e10\function.c
+	"E10.h"
+
+1597051539 c:\users\jj\desktop\ch11_e10\ch11_e10\e10.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1597051539 source:c:\users\jj\desktop\ch11_e10\ch11_e10\main.c
+	"E10.h"
+
