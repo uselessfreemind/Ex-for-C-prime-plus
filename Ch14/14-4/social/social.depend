@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1468942515 source:c:\users\administrator\documents\cpp\chpt 14\14-4\social\main.c
+	<stdio.h>
+	<string.h>
+	"social.h"
+
+1468942373 c:\users\administrator\documents\cpp\chpt 14\14-4\social\social.h
+

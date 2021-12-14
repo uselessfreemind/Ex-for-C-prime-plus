@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1467390012 source:c:\users\administrator\documents\cpp\chpt 14\14-3\14-3\main.c
+	"show_info.h"
+
+1467389828 c:\users\administrator\documents\cpp\chpt 14\14-3\14-3\show_info.h
+	<string.h>
+	<stdio.h>
+
+1467390001 source:c:\users\administrator\documents\cpp\chpt 14\14-3\14-3\show_info.c
+	"show_info.h"
+

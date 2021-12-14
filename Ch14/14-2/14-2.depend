@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1467301874 source:c:\users\administrator\documents\cpp\chpt 14\14-2\14-2.c
+	"make.h"
+
+1467301451 c:\users\administrator\documents\cpp\chpt 14\14-2\make.h
+	<stdio.h>
+	<string.h>
+
+1467302188 source:c:\users\administrator\documents\cpp\chpt 14\14-2\make.c
+	"make.h"
+
